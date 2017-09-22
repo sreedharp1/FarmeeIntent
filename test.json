@@ -1,0 +1,45 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "SessionId.594e01f3-403b-4371-b36b-11e3c22e16fe",
+    "application": {
+      "applicationId": "amzn1.ask.skill.d1dc75bd-7f94-47e9-8d5b-c4b013bf98a1"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGEZ475X2E3LRIHODXQQNOH6INKKM7VQXRA2W547RZ56JOXDGTZ6TTX6LURDPZRWWWXZGQC3MYNRXXOP4C7NT2GQHKDM7QFGV2AQXTE5Q42NIW7GHDIXF46RTADASCVNN7SOGPYLTWD6WDJOKAJ62EVSFO5YBY3ET5KB7TNSR37LJ4JJ7D3A2ACLJ57T7A5BUYS2BFNZJC5JW5Y"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.75a81f19-ec4b-4d60-92a2-62285d3c8eaa",
+    "intent": {
+      "name": "FarmeeIntent",
+      "slots": {
+        "Animal": {
+          "name": "Animal",
+          "value": "cow"
+        }
+      }
+    },
+    "locale": "en-US",
+    "timestamp": "2017-09-21T23:54:57Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.d1dc75bd-7f94-47e9-8d5b-c4b013bf98a1"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AGEZ475X2E3LRIHODXQQNOH6INKKM7VQXRA2W547RZ56JOXDGTZ6TTX6LURDPZRWWWXZGQC3MYNRXXOP4C7NT2GQHKDM7QFGV2AQXTE5Q42NIW7GHDIXF46RTADASCVNN7SOGPYLTWD6WDJOKAJ62EVSFO5YBY3ET5KB7TNSR37LJ4JJ7D3A2ACLJ57T7A5BUYS2BFNZJC5JW5Y"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}

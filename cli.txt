@@ -1,0 +1,2 @@
+ask api simulate-skill -s amzn1.ask.skill.d1dc75bd-7f94-47e9-8d5b-c4b013bf98a1 -l en-US -f utterances.txt
+ask api get-simulation -i <simulation_id_from_simulate_response> -s amzn1.ask.skill.d1dc75bd-7f94-47e9-8d5b-c4b013bf98a1
